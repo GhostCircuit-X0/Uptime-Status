@@ -13,7 +13,7 @@ sites:
   - name: Status Watch LOL
     url: https://status-watch-lol.vercel.app
   - name: TinyURL Server
-    url: https://pdgodwdvwqrfpljzxlfb.supabase.co/
+    url: https://tinyurl-server.deno.dev
 
 status-website:
   # If you don’t have a custom domain, use baseUrl as below
